@@ -12,21 +12,44 @@ h1, h2, h3, h4, h5, h6 {
   padding: 3% 15%;
 }
 
+.container-fluidish{
+  padding: 3%;
+}
+
 .color-section {
   background-color: #074e67;
   color: #fff;
 }
 
 .white-section {
-  background-color: #f2f2f2;
+  background-color: #f5f5f5;
   color: #001440;
 }
 
 .color-header {
   color: #05878a;
+  font-weight: 700;
+}
+
+.big-header {
+  font-size: 3rem;
+}
+
+.summary-header {
+  text-align: left;
+  font-size: 3rem;
+}
+
+.summary-text {
+  text-align: left;
+  font-size: 1.2rem;
 }
 
 .mobile-images {
   width: 70%;
   padding: 2% 0;
+}
+
+.cta-text {
+  font-size: 1.8rem;
 }
