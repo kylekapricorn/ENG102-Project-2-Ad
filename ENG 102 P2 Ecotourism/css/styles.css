@@ -1,0 +1,32 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.color-section {
+  background-color: #074e67;
+  color: #fff;
+}
+
+.white-section {
+  background-color: #f2f2f2;
+  color: #001440;
+}
+
+.color-header {
+  color: #05878a;
+}
+
+.mobile-images {
+  width: 70%;
+  padding: 2% 0;
+}
